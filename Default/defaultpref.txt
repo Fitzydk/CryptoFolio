@@ -1,0 +1,4 @@
+"<option value='bitcoin'>Bitcoin</option>"|
+"<option value='ethereum'>Ethereum</option>"|
+"<option value='dogecoin'>DogeCoin</option>"|
+"<option value='litecoin'>Litecoin</option>"|
